@@ -1,4 +1,4 @@
-### Cadastro De Carros 🚗
+### Cadastro de carros 🚗
 
 📜 Uma Aplicação .NET de cadastro que interage com o Banco de Dados MySQL 🖋️
 
